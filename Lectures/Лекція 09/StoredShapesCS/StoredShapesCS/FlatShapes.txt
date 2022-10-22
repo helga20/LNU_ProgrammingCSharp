@@ -1,0 +1,17 @@
+The collection of flat shapes
+
+Square[5]
+Rectangle[4,2x6,1]
+Square[1]
+Triangle<6-60-6>
+Circle(5,3)
+Rectangle[3x4]
+
+ and formatted output
+
+Rectangle [ 5,000000E+000 x 5,000000E+000 ]
+Rectangle [ 4,200000E+000 x 6,100000E+000 ]
+Rectangle [ 1,000000E+000 x 1,000000E+000 ]
+Triangle<6-60-6>
+Circle(5,3)
+Rectangle [ 3,000000E+000 x 4,000000E+000 ]

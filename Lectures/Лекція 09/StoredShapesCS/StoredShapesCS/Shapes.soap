@@ -1,0 +1,50 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Shape[8]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+<item href="#ref-9"/>
+<item href="#ref-10"/>
+</SOAP-ENC:Array>
+<a1:Square id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>3</a>
+<b>3</b>
+<Rectangle_x002B_a>3</Rectangle_x002B_a>
+<Rectangle_x002B_b>3</Rectangle_x002B_b>
+</a1:Square>
+<a1:Square id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>5</a>
+<b>5</b>
+<Rectangle_x002B_a>5</Rectangle_x002B_a>
+<Rectangle_x002B_b>5</Rectangle_x002B_b>
+</a1:Square>
+<a1:Circle id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<r>4</r>
+</a1:Circle>
+<a1:Rectangle id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>6</a>
+<b>9</b>
+</a1:Rectangle>
+<a1:Triangle id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>3</a>
+<b>3</b>
+<gamma>60</gamma>
+</a1:Triangle>
+<a1:Triangle id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>3</a>
+<b>4</b>
+<gamma>90</gamma>
+</a1:Triangle>
+<a1:Rectangle id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>8</a>
+<b>7</b>
+</a1:Rectangle>
+<a1:Circle id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/StoredShapesCS/StoredShapesCS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<r>12</r>
+</a1:Circle>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

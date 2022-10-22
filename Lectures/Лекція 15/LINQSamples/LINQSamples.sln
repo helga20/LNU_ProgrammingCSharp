@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQSamples", "LINQSamples\LINQSamples.csproj", "{9CE1EE81-6BAA-4E48-AA04-2046C41B72B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryOperators", "QueryOperators\QueryOperators.csproj", "{4D066E8D-6DBA-4B9D-866A-293CD18F407D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartExamples", "StartExamples\StartExamples.csproj", "{05963394-F7AE-4C6B-A540-D67505B96BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE1EE81-6BAA-4E48-AA04-2046C41B72B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE1EE81-6BAA-4E48-AA04-2046C41B72B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE1EE81-6BAA-4E48-AA04-2046C41B72B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE1EE81-6BAA-4E48-AA04-2046C41B72B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D066E8D-6DBA-4B9D-866A-293CD18F407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D066E8D-6DBA-4B9D-866A-293CD18F407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D066E8D-6DBA-4B9D-866A-293CD18F407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D066E8D-6DBA-4B9D-866A-293CD18F407D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05963394-F7AE-4C6B-A540-D67505B96BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05963394-F7AE-4C6B-A540-D67505B96BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05963394-F7AE-4C6B-A540-D67505B96BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05963394-F7AE-4C6B-A540-D67505B96BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
