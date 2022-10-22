@@ -1,0 +1,23 @@
+E:\C# програмування\Практика\Travel\Travel\bin\Debug\Travel.exe.config
+E:\C# програмування\Практика\Travel\Travel\bin\Debug\Travel.exe
+E:\C# програмування\Практика\Travel\Travel\bin\Debug\Travel.pdb
+E:\C# програмування\Практика\Travel\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+E:\C# програмування\Практика\Travel\Travel\obj\Debug\Travel.Form1.resources
+E:\C# програмування\Практика\Travel\Travel\obj\Debug\Travel.Properties.Resources.resources
+E:\C# програмування\Практика\Travel\Travel\obj\Debug\Travel.csproj.GenerateResource.cache
+E:\C# програмування\Практика\Travel\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+E:\C# програмування\Практика\Travel\Travel\obj\Debug\Travel.exe
+E:\C# програмування\Практика\Travel\Travel\obj\Debug\Travel.pdb
+E:\C# програмування\Практика\Travel\Travel\obj\Debug\Travel.OrderForm.resources
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\bin\Debug\Travel.exe.config
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\bin\Debug\Travel.exe
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\bin\Debug\Travel.pdb
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.csproj.AssemblyReference.cache
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.OrderForm.resources
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.Properties.Resources.resources
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.csproj.GenerateResource.cache
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.exe
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.pdb
+D:\Навчання\3 семестр\Програмування (C#)\Виробнича практика\Travel\Travel\obj\Debug\Travel.AgencyForm.resources
