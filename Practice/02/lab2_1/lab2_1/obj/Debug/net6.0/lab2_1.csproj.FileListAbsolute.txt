@@ -1,0 +1,15 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\bin\Debug\net6.0\lab2_1.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\bin\Debug\net6.0\lab2_1.deps.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\bin\Debug\net6.0\lab2_1.runtimeconfig.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\bin\Debug\net6.0\lab2_1.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\bin\Debug\net6.0\ref\lab2_1.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\bin\Debug\net6.0\lab2_1.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\lab2_1.csproj.AssemblyReference.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\lab2_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\lab2_1.AssemblyInfoInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\lab2_1.AssemblyInfo.cs
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\lab2_1.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\lab2_1.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\ref\lab2_1.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\lab2_1.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\lab2_1\lab2_1\obj\Debug\net6.0\lab2_1.genruntimeconfig.cache
