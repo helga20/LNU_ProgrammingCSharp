@@ -1,0 +1,24 @@
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\bin\Debug\TeachingChildren.exe.config
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\bin\Debug\TeachingChildren.exe
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\bin\Debug\TeachingChildren.pdb
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.csproj.AssemblyReference.cache
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.TeachingForm.resources
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.Properties.Resources.resources
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.csproj.GenerateResource.cache
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.csproj.CoreCompileInputs.cache
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.exe
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.pdb
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.Writing.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\bin\Debug\TeachingChildren.exe.config
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\bin\Debug\TeachingChildren.exe
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\bin\Debug\TeachingChildren.pdb
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.csproj.AssemblyReference.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.TeachingForm.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.Properties.Resources.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.Writing.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.csproj.GenerateResource.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.csproj.CoreCompileInputs.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.exe
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\12\TeachingChildren\obj\Debug\TeachingChildren.pdb
