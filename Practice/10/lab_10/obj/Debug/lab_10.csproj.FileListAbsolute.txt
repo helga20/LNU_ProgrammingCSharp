@@ -1,0 +1,22 @@
+D:\Навчання\3_курс\lab_10\bin\Debug\lab_10.exe.config
+D:\Навчання\3_курс\lab_10\bin\Debug\lab_10.exe
+D:\Навчання\3_курс\lab_10\bin\Debug\lab_10.pdb
+D:\Навчання\3_курс\lab_10\obj\Debug\lab_10.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\lab_10\obj\Debug\lab_10.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3_курс\lab_10\obj\Debug\lab_10.ProgressionForm.resources
+D:\Навчання\3_курс\lab_10\obj\Debug\lab_10.Properties.Resources.resources
+D:\Навчання\3_курс\lab_10\obj\Debug\lab_10.csproj.GenerateResource.cache
+D:\Навчання\3_курс\lab_10\obj\Debug\lab_10.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\lab_10\obj\Debug\lab_10.exe
+D:\Навчання\3_курс\lab_10\obj\Debug\lab_10.pdb
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\bin\Debug\lab_10.exe.config
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\bin\Debug\lab_10.exe
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\bin\Debug\lab_10.pdb
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\obj\Debug\lab_10.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\obj\Debug\lab_10.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\obj\Debug\lab_10.ProgressionForm.resources
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\obj\Debug\lab_10.Properties.Resources.resources
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\obj\Debug\lab_10.csproj.GenerateResource.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\obj\Debug\lab_10.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\obj\Debug\lab_10.exe
+D:\Навчання\3_курс\Програмування (C#)\Практичні\10\lab_10\obj\Debug\lab_10.pdb
