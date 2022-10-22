@@ -1,0 +1,16 @@
+D:\Навчання\3_курс\ButtonWithSoundSolution\ButtonWithSoundControl\bin\Debug\ButtonWithSoundControl.dll
+D:\Навчання\3_курс\ButtonWithSoundSolution\ButtonWithSoundControl\bin\Debug\ButtonWithSoundControl.pdb
+D:\Навчання\3_курс\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.ButtonWithSound.resources
+D:\Навчання\3_курс\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.csproj.GenerateResource.cache
+D:\Навчання\3_курс\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.dll
+D:\Навчання\3_курс\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.pdb
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Лекції\Лекція 13\ButtonWithSoundSolution\ButtonWithSoundControl\bin\Debug\ButtonWithSoundControl.dll
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Лекції\Лекція 13\ButtonWithSoundSolution\ButtonWithSoundControl\bin\Debug\ButtonWithSoundControl.pdb
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Лекції\Лекція 13\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.csproj.AssemblyReference.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Лекції\Лекція 13\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.ButtonWithSound.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Лекції\Лекція 13\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.csproj.GenerateResource.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Лекції\Лекція 13\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.csproj.CoreCompileInputs.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Лекції\Лекція 13\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.dll
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Лекції\Лекція 13\ButtonWithSoundSolution\ButtonWithSoundControl\obj\Debug\ButtonWithSoundControl.pdb

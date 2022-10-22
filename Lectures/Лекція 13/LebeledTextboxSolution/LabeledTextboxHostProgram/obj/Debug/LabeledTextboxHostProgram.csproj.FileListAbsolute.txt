@@ -1,0 +1,14 @@
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\bin\Debug\LabeledTextboxHostProgram.exe.config
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\bin\Debug\LabeledTextboxHostProgram.exe
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\bin\Debug\LabeledTextboxHostProgram.pdb
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\bin\Debug\LebeledTextboxControl.dll
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\bin\Debug\LebeledTextboxControl.pdb
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.Form1.resources
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.Properties.Resources.resources
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.csproj.GenerateResource.cache
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.csproj.CopyComplete
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.exe
+D:\Навчання\3_курс\LebeledTextboxSolution\LabeledTextboxHostProgram\obj\Debug\LabeledTextboxHostProgram.pdb

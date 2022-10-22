@@ -1,0 +1,8 @@
+D:\Навчання\3_курс\LebeledTextboxSolution\LebeledTextboxControl\bin\Debug\LebeledTextboxControl.dll
+D:\Навчання\3_курс\LebeledTextboxSolution\LebeledTextboxControl\bin\Debug\LebeledTextboxControl.pdb
+D:\Навчання\3_курс\LebeledTextboxSolution\LebeledTextboxControl\obj\Debug\LebeledTextboxControl.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\LebeledTextboxSolution\LebeledTextboxControl\obj\Debug\LebeledTextboxControl.LabeledTextbox.resources
+D:\Навчання\3_курс\LebeledTextboxSolution\LebeledTextboxControl\obj\Debug\LebeledTextboxControl.csproj.GenerateResource.cache
+D:\Навчання\3_курс\LebeledTextboxSolution\LebeledTextboxControl\obj\Debug\LebeledTextboxControl.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\LebeledTextboxSolution\LebeledTextboxControl\obj\Debug\LebeledTextboxControl.dll
+D:\Навчання\3_курс\LebeledTextboxSolution\LebeledTextboxControl\obj\Debug\LebeledTextboxControl.pdb
