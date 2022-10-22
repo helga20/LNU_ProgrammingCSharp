@@ -1,0 +1,15 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\bin\Debug\net6.0\Kravets_lab3_var9.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\bin\Debug\net6.0\Kravets_lab3_var9.deps.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\bin\Debug\net6.0\Kravets_lab3_var9.runtimeconfig.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\bin\Debug\net6.0\Kravets_lab3_var9.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\bin\Debug\net6.0\ref\Kravets_lab3_var9.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\bin\Debug\net6.0\Kravets_lab3_var9.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\Kravets_lab3_var9.csproj.AssemblyReference.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\Kravets_lab3_var9.GeneratedMSBuildEditorConfig.editorconfig
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\Kravets_lab3_var9.AssemblyInfoInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\Kravets_lab3_var9.AssemblyInfo.cs
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\Kravets_lab3_var9.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\Kravets_lab3_var9.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\ref\Kravets_lab3_var9.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\Kravets_lab3_var9.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\03\Kravets_lab3_var9\obj\Debug\net6.0\Kravets_lab3_var9.genruntimeconfig.cache

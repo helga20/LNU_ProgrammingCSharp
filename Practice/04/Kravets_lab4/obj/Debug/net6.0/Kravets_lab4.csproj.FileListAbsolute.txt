@@ -1,0 +1,15 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\bin\Debug\net6.0\Kravets_lab4.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\bin\Debug\net6.0\Kravets_lab4.deps.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\bin\Debug\net6.0\Kravets_lab4.runtimeconfig.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\bin\Debug\net6.0\Kravets_lab4.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\bin\Debug\net6.0\ref\Kravets_lab4.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\bin\Debug\net6.0\Kravets_lab4.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\Kravets_lab4.csproj.AssemblyReference.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\Kravets_lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\Kravets_lab4.AssemblyInfoInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\Kravets_lab4.AssemblyInfo.cs
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\Kravets_lab4.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\Kravets_lab4.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\ref\Kravets_lab4.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\Kravets_lab4.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\04\Kravets_lab4\obj\Debug\net6.0\Kravets_lab4.genruntimeconfig.cache

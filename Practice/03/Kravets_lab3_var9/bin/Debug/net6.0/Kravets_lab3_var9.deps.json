@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kravets_lab3_var9/1.0.0": {
+        "runtime": {
+          "Kravets_lab3_var9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kravets_lab3_var9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
