@@ -1,0 +1,15 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\bin\Debug\net6.0\Events.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\bin\Debug\net6.0\Events.deps.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\bin\Debug\net6.0\Events.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\bin\Debug\net6.0\ref\Events.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\bin\Debug\net6.0\Events.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\Events.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\ref\Events.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\Events.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Взаємодія через події\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache

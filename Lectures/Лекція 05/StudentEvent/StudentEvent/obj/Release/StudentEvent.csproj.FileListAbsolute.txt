@@ -1,0 +1,6 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\StudentEvent\StudentEvent\bin\Release\StudentEvent.exe.config
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\StudentEvent\StudentEvent\bin\Release\StudentEvent.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\StudentEvent\StudentEvent\bin\Release\StudentEvent.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\StudentEvent\StudentEvent\obj\Release\StudentEvent.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\StudentEvent\StudentEvent\obj\Release\StudentEvent.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\StudentEvent\StudentEvent\obj\Release\StudentEvent.pdb

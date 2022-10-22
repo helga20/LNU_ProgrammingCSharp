@@ -1,0 +1,402 @@
+//У вкладеному файлі - розгорнутий опис того, що можна було б змоделювати за допомогою класів та подій (два варіанти). 
+//Можна виконати все завдання або його частину. 
+//Можна придумати власний сценарій, але такий, у якому є хоча б три об'єкти, що взаємодіють за допомогою event.
+//Оцінюється наповненість програми, якість коментарів, правильність створення event, візуальне подання. 
+/*
+ *  ЛЕГЕНДА: Об'єкт Сонце сходить і заходить, повідомляє інші об'єкти про зміни свого стану.
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Events
+{
+    /* Сонце - клас, який сходить і заходить і повідомляє інші об'єкти про зміни свого стану */
+    public class Sun
+    {
+        // сонце повідомляє про зміну свого стану 
+        public void SunriseMessage()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("*Sunrise* Доброго ранку з України!");
+            Console.ResetColor();
+        }
+        public void SunsetMessage()
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.WriteLine("*Sunset* Доброго вечора з України!");
+            Console.ResetColor();
+        }
+    }
+
+    /* Клас - клас, який реагує на повідомлення від Сонця: 
+     * денна квітка Тигридія розпускається зранку і закривається ввечері, 
+     * вечірня квітка Мірабіліс розпускається ввечері і закривається зранку */
+    public class Flower
+    {
+        public void TygridiaMessage()
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Я тигридія. Настав час милуватися мною)");
+            Console.ResetColor();
+        }
+        public void MirabilisMessage()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.WriteLine("Я мірабіліс. Настав час милуватися мною)");
+            Console.ResetColor();
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.OutputEncoding = UTF8Encoding.UTF8;
+
+            Sun s = new Sun();
+            s.SunriseMessage();
+            Console.WriteLine("-----------");
+            s.SunsetMessage();
+
+            Console.WriteLine("***********");
+
+            Flower f = new Flower();
+            f.TygridiaMessage();
+            Console.WriteLine("-----------");
+            f.MirabilisMessage();
+
+        }
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//У вкладеному файлі - розгорнутий опис того, що можна було б змоделювати за допомогою класів та подій (два варіанти). 
+//Можна виконати все завдання або його частину. 
+//Можна придумати власний сценарій, але такий, у якому є хоча б три об'єкти, що взаємодіють за допомогою event.
+//Оцінюється наповненість програми, якість коментарів, правильність створення event, візуальне подання. 
+/*
+ *  ЛЕГЕНДА: Об'єкт Сонце сходить і заходить, повідомляє інші об'єкти про зміни свого стану.
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Timers;
+
+namespace Events
+{
+    //public delegate void MessageHandlerSun(/*object source, EventArgs args*/); // делегат обробки повідомлень сонця
+    /* Сонце - клас, який сходить і заходить і повідомляє інші об'єкти про зміни свого стану */
+    public class Sun
+    {
+        //public event EventHandler SunriseMessageEvent; // подія сонце сходить
+        //public event MessageHandlerSun SunsetSunMessageEvent; // подія сонце заходить  
+        //public Sun()
+        //{
+        //    this.SunriseMessageEvent += new MessageHandlerSun(this.SunriseMessage);
+        //    this.SunsetSunMessageEvent += new MessageHandlerSun(this.SunsetMessage);
+        //}
+        // сонце повідомляє про зміну свого стану 
+        public void SunriseMessage()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("*Sunrise* Доброго ранку з України!");
+            Console.ResetColor();
+        }
+        public void SunsetMessage()
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.WriteLine("*Sunset* Доброго вечора з України!");
+            Console.ResetColor();
+        }
+        public event EventHandler SunriseMessageEvent; // подія сонце 
+    }
+
+    /* Клас - клас, який реагує на повідомлення від Сонця: 
+     * денна квітка Тигридія розпускається зранку і закривається ввечері, 
+     * вечірня квітка Мірабіліс розпускається ввечері і закривається зранку */
+    public class Flower
+    {
+        public void TygridiaMessage(object sender, System.EventArgs e)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Я тигридія. Настав час милуватися мною)");
+            Console.ResetColor();
+        }
+        public void MirabilisMessage(object sender, System.EventArgs e)
+        {
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.WriteLine("Я мірабіліс. Настав час милуватися мною)");
+            Console.ResetColor();
+        }
+    }
+   
+    class Program
+    {
+        // обробник події
+        public static void s_MessageArrived()
+        {
+            Console.WriteLine("Process Completed!");
+        }
+        static void Main(string[] args)
+        {
+            Sun s = new Sun();
+            Flower f = new Flower();
+
+            s.SunriseMessageEvent += f.TygridiaMessage;
+            s.SunriseMessageEvent += f.MirabilisMessage;
+            s.SunriseMessage();
+            s.SunsetMessage();
+
+
+            //GameManager gameManager = new GameManager();
+            //SoundManager soundManager = new SoundManager();
+            //gameManager.onLevelUp += soundManager.OnLevelUp;
+            //gameManager.onLevelUp += uiManager.OnLevelUp;
+
+            //// 3. publish an event
+            //gameManager.LevelUp();
+
+
+            //s.SunriseMessageEvent;
+
+            //Sun s = new Sun();
+            //s.MessageArrived += s_MessageArrived;
+            //s.SunriseMessage();
+            //s.SunsetMessage();
+
+            //MessageHandler s = SunsetMessage;
+            //Console.WriteLine("\n " + s);
+
+
+
+
+            //Sun s = new Sun();
+            //s.SunriseMessage();
+            //Console.WriteLine("-----------");
+            //s.SunsetMessage();
+
+            //Console.WriteLine("***********");
+
+            //Flower f = new Flower();
+            //f.TygridiaMessage();
+            //Console.WriteLine("-----------");
+            //f.MirabilisMessage();
+
+        }
+    }
+
+    //internal class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Console.OutputEncoding = UTF8Encoding.UTF8;
+
+    //        Sun s = new Sun();
+    //        s.SunriseMessage();
+    //        Console.WriteLine("-----------");
+    //        s.SunsetMessage();
+
+    //        Console.WriteLine("***********");
+
+    //        Flower f = new Flower();
+    //        f.TygridiaMessage();
+    //        Console.WriteLine("-----------");
+    //        f.MirabilisMessage();
+
+    //    }
+    //}
+}
+
+//Console.OutputEncoding = UTF8Encoding.UTF8;
+//static int counter = 0;
+//Timer myTimer = new Timer(100);
+//myTimer.Elapsed += new ElapsedEventHandler(WriteChar);
+//myTimer.Start();
+//Console.ReadKey();
+//static void WriteChar(object source, ElapsedEventArgs e)
+//{
+//    Console.Write(displayString[counter++ % displayString.Length]);
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//У вкладеному файлі - розгорнутий опис того, що можна було б змоделювати за допомогою класів та подій (два варіанти). 
+//Можна виконати все завдання або його частину. 
+//Можна придумати власний сценарій, але такий, у якому є хоча б три об'єкти, що взаємодіють за допомогою event.
+//Оцінюється наповненість програми, якість коментарів, правильність створення event, візуальне подання. 
+/*
+ *  ЛЕГЕНДА: Об'єкт Сонце сходить і заходить, повідомляє інші об'єкти про зміни свого стану.
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Timers;
+
+namespace Events
+{
+    /* Сонце - клас, який сходить і заходить і повідомляє інші об'єкти про зміни свого стану */
+    class Sun
+    {
+        //public delegate void MessageHandlerSun(string x); // делегат обробки повідомлень сонця
+
+        //public event MessageHandlerSun SunMessageEvent; // подія сонце сходить
+        //сонце повідомляє про зміну свого стану
+        public void SunMessage(string x)
+        {
+            if (x == "day")
+            {
+                Console.ForegroundColor = ConsoleColor.DarkBlue;
+                Console.BackgroundColor = ConsoleColor.Yellow;
+                Console.WriteLine("*day* Доброго ранку з України!");
+                Console.ResetColor();
+            }
+            else if (x == "night")
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.BackgroundColor = ConsoleColor.Blue;
+                Console.WriteLine("*night* Добрий вечір з України!");
+                Console.ResetColor();
+            }        
+        }
+
+        //public void SunriseMessage()
+        //{
+        //    Console.ForegroundColor = ConsoleColor.DarkBlue;
+        //    Console.BackgroundColor = ConsoleColor.Yellow;
+        //    Console.WriteLine("*Sunrise* Доброго ранку з України!");
+        //    Console.ResetColor();
+        //}
+        //public void SunsetMessage()
+        //{
+        //    Console.ForegroundColor = ConsoleColor.Yellow;
+        //    Console.BackgroundColor = ConsoleColor.Blue;
+        //    Console.WriteLine("*Sunset* Доброго вечора з України!");
+        //    Console.ResetColor();
+        //}
+        // public event EventHandler SunriseMessageEvent; // подія сонце 
+    }
+
+    /* Клас - клас, який реагує на повідомлення від Сонця: 
+     * денна квітка Тигридія розпускається зранку і закривається ввечері, 
+     * вечірня квітка Мірабіліс розпускається ввечері і закривається зранку */
+    class Flower
+    {
+        public void FlowerMessage(string x)
+        {
+            if (x == "day")
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("*day* Я тигридія. Настав час милуватися мною)");
+                Console.ResetColor();
+            }
+            else if (x == "night")
+            {
+                Console.ForegroundColor = ConsoleColor.DarkMagenta;
+                Console.WriteLine("*night* Я мірабіліс.Настав час милуватися мною)");
+                Console.ResetColor();
+            }
+        }
+    }
+    class Bee
+    {
+        public void BeeaMessage(string x)
+        {
+            if (x == "day")
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.WriteLine("*day* Бджілка вилітає *night*");
+                Console.ResetColor();
+            }
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.OutputEncoding = UTF8Encoding.UTF8;
+
+            string day = "day";
+            string night = "night";
+
+            Sun s = new Sun();
+            s.SunMessage(day);
+            s.SunMessage(night);
+
+            Flower f = new Flower();
+            f.FlowerMessage(day);
+            f.FlowerMessage(night);
+
+            Bee b = new Bee();
+            b.BeeaMessage(day);
+
+        }
+        
+    }
+}
+
+
+
+
+
+
+
+
+
