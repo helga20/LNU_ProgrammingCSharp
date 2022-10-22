@@ -1,4 +1,0 @@
-D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\AdvancedCLModel\CrossLightsModel\obj\Debug\CrossLightsModel.csproj.AssemblyReference.cache
-D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\AdvancedCLModel\CrossLightsModel\obj\Debug\CrossLightsModel.csproj.SuggestedBindingRedirects.cache
-D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\AdvancedCLModel\CrossLightsModel\obj\Debug\CrossLightsModel.CLForm.resources
-D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\AdvancedCLModel\CrossLightsModel\obj\Debug\CrossLightsModel.csproj.GenerateResource.cache
