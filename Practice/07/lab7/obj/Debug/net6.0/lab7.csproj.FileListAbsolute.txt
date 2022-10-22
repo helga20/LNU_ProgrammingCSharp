@@ -1,0 +1,30 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.deps.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\ref\lab7.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.AssemblyInfoInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.AssemblyInfo.cs
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\ref\lab7.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.exe
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.deps.json
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.dll
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\bin\Debug\net6.0\lab7.pdb
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.AssemblyInfoInputs.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.AssemblyInfo.cs
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.dll
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\refint\lab7.dll
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.pdb
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
+D:\Навчання\3_курс\Програмування (C#)\Практичні\07\lab7\obj\Debug\net6.0\ref\lab7.dll

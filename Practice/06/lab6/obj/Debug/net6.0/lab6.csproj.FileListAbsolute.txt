@@ -1,0 +1,15 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\bin\Debug\net6.0\lab6.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\bin\Debug\net6.0\lab6.deps.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\bin\Debug\net6.0\lab6.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\bin\Debug\net6.0\ref\lab6.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\bin\Debug\net6.0\lab6.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\lab6.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\ref\lab6.dll
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\lab6.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Практичні\06\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
