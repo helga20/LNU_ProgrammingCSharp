@@ -1,0 +1,11 @@
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\bin\Debug\CrossLightsModel.exe.config
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\bin\Debug\CrossLightsModel.exe
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\bin\Debug\CrossLightsModel.pdb
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\obj\Debug\CrossLightsModel.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\obj\Debug\CrossLightsModel.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\obj\Debug\CrossLightsModel.CLForm.resources
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\obj\Debug\CrossLightsModel.Properties.Resources.resources
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\obj\Debug\CrossLightsModel.csproj.GenerateResource.cache
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\obj\Debug\CrossLightsModel.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\obj\Debug\CrossLightsModel.exe
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 11\CrossLightsModel\CrossLightsModel\obj\Debug\CrossLightsModel.pdb
