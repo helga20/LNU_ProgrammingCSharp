@@ -1,0 +1,7 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\Events\Events\bin\Debug\Events.exe.config
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\Events\Events\bin\Debug\Events.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\Events\Events\bin\Debug\Events.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\Events\Events\obj\Debug\Events.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\Events\Events\obj\Debug\Events.pdb

@@ -1,0 +1,7 @@
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\DelegateUsage\TestDelegate\bin\Debug\TestDelegate.exe.config
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\DelegateUsage\TestDelegate\bin\Debug\TestDelegate.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\DelegateUsage\TestDelegate\bin\Debug\TestDelegate.pdb
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\DelegateUsage\TestDelegate\obj\Debug\TestDelegate.csproj.AssemblyReference.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\DelegateUsage\TestDelegate\obj\Debug\TestDelegate.csproj.CoreCompileInputs.cache
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\DelegateUsage\TestDelegate\obj\Debug\TestDelegate.exe
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (C#)\Лекції\Лекція 05\DelegateUsage\TestDelegate\obj\Debug\TestDelegate.pdb
