@@ -1,0 +1,84 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:VolShape[6]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+</SOAP-ENC:Array>
+<a1:Cone id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Base href="#ref-9"/>
+<h>1</h>
+<PiramidalShape_x002B_Base href="#ref-9"/>
+<PiramidalShape_x002B_h>1</PiramidalShape_x002B_h>
+<VolShape_x002B_Base href="#ref-9"/>
+<VolShape_x002B_h>1</VolShape_x002B_h>
+</a1:Cone>
+<a1:Cylinder id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Base href="#ref-10"/>
+<h>3</h>
+<DirectShape_x002B_Base href="#ref-10"/>
+<DirectShape_x002B_h>3</DirectShape_x002B_h>
+<VolShape_x002B_Base href="#ref-10"/>
+<VolShape_x002B_h>3</VolShape_x002B_h>
+</a1:Cylinder>
+<a1:Parallele id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Base href="#ref-11"/>
+<h>2.5</h>
+<DirectShape_x002B_Base href="#ref-11"/>
+<DirectShape_x002B_h>2.5</DirectShape_x002B_h>
+<VolShape_x002B_Base href="#ref-11"/>
+<VolShape_x002B_h>2.5</VolShape_x002B_h>
+</a1:Parallele>
+<a1:TriPiramid id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Base href="#ref-12"/>
+<h>5</h>
+<PiramidalShape_x002B_Base href="#ref-12"/>
+<PiramidalShape_x002B_h>5</PiramidalShape_x002B_h>
+<VolShape_x002B_Base href="#ref-12"/>
+<VolShape_x002B_h>5</VolShape_x002B_h>
+</a1:TriPiramid>
+<a1:RectPiramid id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Base href="#ref-13"/>
+<h>4</h>
+<PiramidalShape_x002B_Base href="#ref-13"/>
+<PiramidalShape_x002B_h>4</PiramidalShape_x002B_h>
+<VolShape_x002B_Base href="#ref-13"/>
+<VolShape_x002B_h>4</VolShape_x002B_h>
+</a1:RectPiramid>
+<a1:TriPrism id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Base href="#ref-14"/>
+<h>1</h>
+<DirectShape_x002B_Base href="#ref-14"/>
+<DirectShape_x002B_h>1</DirectShape_x002B_h>
+<VolShape_x002B_Base href="#ref-14"/>
+<VolShape_x002B_h>1</VolShape_x002B_h>
+</a1:TriPrism>
+<a1:Circle id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<r>1</r>
+</a1:Circle>
+<a1:Circle id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<r>2</r>
+</a1:Circle>
+<a1:Rectangle id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>3</a>
+<b>4</b>
+</a1:Rectangle>
+<a1:Triangle id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>3</a>
+<b>3</b>
+<gamma>60</gamma>
+</a1:Triangle>
+<a1:Rectangle id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>6</a>
+<b>6</b>
+</a1:Rectangle>
+<a1:Triangle id="ref-14" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/VolShapesWindowsForms/VolShapesWindowsForms%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<a>1</a>
+<b>1</b>
+<gamma>60</gamma>
+</a1:Triangle>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

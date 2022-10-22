@@ -1,0 +1,14 @@
+13
+cone 2 1
+cone 1 2
+cylinder 5 0,5
+cylinder 3 3
+parallele 3 4 5
+parallele 4 5 3
+triprism 5 5 60 5
+rectpiramid 2 2 3
+rectpiramid 3 3 2
+tripiramid 6 6 60 6
+tripiramid 3 4 90 5
+triprism 4 5 30 6
+cylinder 7,5 3

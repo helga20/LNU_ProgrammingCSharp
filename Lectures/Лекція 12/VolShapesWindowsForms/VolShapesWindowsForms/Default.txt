@@ -1,0 +1,7 @@
+6
+cone 1 1
+cylinder 2 3
+parallele 3 4 2,5
+tripiramid 3 3 60 5
+rectpiramid 6 6 4
+triprism 1 1 60 1
