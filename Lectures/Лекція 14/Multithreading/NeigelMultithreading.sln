@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreadClass", "TreadClass\TreadClass.csproj", "{E7A4433C-3D76-4EFC-A14A-3F770A461782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadProblem", "MultithreadProblem\MultithreadProblem.csproj", "{C4E12ACA-C952-4445-9874-55303A634D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDelegates", "AsyncDelegates\AsyncDelegates.csproj", "{F135AAFC-02C0-4B6A-8BAF-A24650CA75D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A4433C-3D76-4EFC-A14A-3F770A461782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A4433C-3D76-4EFC-A14A-3F770A461782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A4433C-3D76-4EFC-A14A-3F770A461782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A4433C-3D76-4EFC-A14A-3F770A461782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E12ACA-C952-4445-9874-55303A634D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E12ACA-C952-4445-9874-55303A634D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E12ACA-C952-4445-9874-55303A634D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E12ACA-C952-4445-9874-55303A634D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F135AAFC-02C0-4B6A-8BAF-A24650CA75D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F135AAFC-02C0-4B6A-8BAF-A24650CA75D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F135AAFC-02C0-4B6A-8BAF-A24650CA75D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F135AAFC-02C0-4B6A-8BAF-A24650CA75D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
