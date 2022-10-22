@@ -1,0 +1,11 @@
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\bin\Debug\FirstDemoApp.exe.config
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\bin\Debug\FirstDemoApp.exe
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\bin\Debug\FirstDemoApp.pdb
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\obj\Debug\FirstDemoApp.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\obj\Debug\FirstDemoApp.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\obj\Debug\FirstDemoApp.MainForm.resources
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\obj\Debug\FirstDemoApp.Properties.Resources.resources
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\obj\Debug\FirstDemoApp.csproj.GenerateResource.cache
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\obj\Debug\FirstDemoApp.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\obj\Debug\FirstDemoApp.exe
+D:\Навчання\3_курс\Програмування (C#)\Лекції\Лекція 10\FirstDemoApp\FirstDemoApp\obj\Debug\FirstDemoApp.pdb
