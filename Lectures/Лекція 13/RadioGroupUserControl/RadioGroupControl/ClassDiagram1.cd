@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RadioGroupControl.RadioGroup">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="RadioGroupControl.RadioGroup.NameCollection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RadioGroup.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RadioGroupControl.RadioGroup.ItemsChangedEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RadioGroup.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="RadioGroupControl.RadioGroup.Direction" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RadioGroup.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAQCAARCgAKoAIICCBAAAiQAABIAAIAAAACAAAAtI=</HashCode>
+      <FileName>RadioGroup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
