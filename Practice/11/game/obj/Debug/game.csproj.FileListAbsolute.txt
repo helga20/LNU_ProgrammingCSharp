@@ -1,0 +1,16 @@
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.csprojAssemblyReference.cache
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.Properties.Resources.resources
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.csproj.GenerateResource.cache
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\C# програмування\Lab_11\game\game\bin\Debug\game.exe.config
+E:\C# програмування\Lab_11\game\game\bin\Debug\game.exe
+E:\C# програмування\Lab_11\game\game\bin\Debug\game.pdb
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.exe
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.pdb
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.level_1.resources
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.main.resources
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.level_2.resources
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.level_3.resources
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.level_1_arcade.resources
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.level_2_arcade.resources
+E:\C# програмування\Lab_11\game\game\obj\Debug\game.level_3_arcade.resources
