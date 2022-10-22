@@ -1,0 +1,43 @@
+D:\Навчання\3_курс\balls_game\bin\Debug\balls_game.exe.config
+D:\Навчання\3_курс\balls_game\bin\Debug\balls_game.exe
+D:\Навчання\3_курс\balls_game\bin\Debug\balls_game.pdb
+D:\Навчання\3_курс\balls_game\obj\Debug\balls_game.csproj.AssemblyReference.cache
+D:\Навчання\3_курс\balls_game\obj\Debug\balls_game.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3_курс\balls_game\obj\Debug\balls_game.balls_game_main.resources
+D:\Навчання\3_курс\balls_game\obj\Debug\balls_game.Properties.Resources.resources
+D:\Навчання\3_курс\balls_game\obj\Debug\balls_game.csproj.GenerateResource.cache
+D:\Навчання\3_курс\balls_game\obj\Debug\balls_game.csproj.CoreCompileInputs.cache
+D:\Навчання\3_курс\balls_game\obj\Debug\balls_game.exe
+D:\Навчання\3_курс\balls_game\obj\Debug\balls_game.pdb
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.csproj.AssemblyReference.cache
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_1.resources
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.balls_game_main.resources
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.Properties.Resources.resources
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.csproj.GenerateResource.cache
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.csproj.CoreCompileInputs.cache
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.exe
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.pdb
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\bin\Debug\balls_game.exe.config
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\bin\Debug\balls_game.exe
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\bin\Debug\balls_game.pdb
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_2.resources
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_3.resources
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_4.resources
+D:\Навчання\3 семестр\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_5.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\bin\Debug\balls_game.exe.config
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\bin\Debug\balls_game.exe
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\bin\Debug\balls_game.pdb
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.csproj.AssemblyReference.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_5.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_1.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.balls_game_main.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_2.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_3.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.level_4.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.Properties.Resources.resources
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.csproj.GenerateResource.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.csproj.CoreCompileInputs.cache
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.exe
+D:\Навчання\1 - 4 семестри\Програмування (C#)\Практичні\11\balls_game\obj\Debug\balls_game.pdb
