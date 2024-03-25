@@ -1,0 +1,10 @@
+﻿ColoredTriangle 3 Red 5 Red 3 Red
+Rectangle 4 5
+Rectangle 5 7
+Rectangle 8 3
+ColoredTriangle 4 Green 5 Blue 3 Black
+ColoredTriangle 6 Orange 5 Orange 4 Orange
+Rectangle 5 6
+ColoredTriangle 6 Green 5 Green 3 Green
+ColoredTriangle 7 Green 12 Red 8 Orange
+ColoredTriangle 6 Orange 7 Orange 5 Orange

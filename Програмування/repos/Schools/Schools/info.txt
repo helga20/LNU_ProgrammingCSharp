@@ -1,0 +1,11 @@
+﻿University AUni1 Lviv 4 60
+University Uni2 Kyiv 5 80
+Academy Aca1 Lviv 4 85
+Academy Aca2 Odesa 5 120
+School Sch1 Lviv 11 30
+School Sch2 Lviv 12 28
+School BSch3 Lviv 11 33
+School Sch4 Kyiv 9 30
+School Sch5 Kyiv 11 32
+School Sch6 Odesa 12 35
+Lyceum CLyc1 Kyiv 6 25

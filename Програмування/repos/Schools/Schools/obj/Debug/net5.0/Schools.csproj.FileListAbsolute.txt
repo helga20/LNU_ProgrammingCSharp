@@ -1,0 +1,16 @@
+C:\Users\ulyan\source\repos\Schools\Schools\bin\Debug\net5.0\Schools.exe
+C:\Users\ulyan\source\repos\Schools\Schools\bin\Debug\net5.0\Schools.deps.json
+C:\Users\ulyan\source\repos\Schools\Schools\bin\Debug\net5.0\Schools.runtimeconfig.json
+C:\Users\ulyan\source\repos\Schools\Schools\bin\Debug\net5.0\Schools.runtimeconfig.dev.json
+C:\Users\ulyan\source\repos\Schools\Schools\bin\Debug\net5.0\Schools.dll
+C:\Users\ulyan\source\repos\Schools\Schools\bin\Debug\net5.0\ref\Schools.dll
+C:\Users\ulyan\source\repos\Schools\Schools\bin\Debug\net5.0\Schools.pdb
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\Schools.csprojAssemblyReference.cache
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\Schools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\Schools.AssemblyInfoInputs.cache
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\Schools.AssemblyInfo.cs
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\Schools.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\Schools.dll
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\ref\Schools.dll
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\Schools.pdb
+C:\Users\ulyan\source\repos\Schools\Schools\obj\Debug\net5.0\Schools.genruntimeconfig.cache

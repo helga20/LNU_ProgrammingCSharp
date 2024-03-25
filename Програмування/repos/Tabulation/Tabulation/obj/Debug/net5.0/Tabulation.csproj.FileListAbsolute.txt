@@ -1,0 +1,16 @@
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\bin\Debug\net5.0\Tabulation.exe
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\bin\Debug\net5.0\Tabulation.deps.json
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\bin\Debug\net5.0\Tabulation.runtimeconfig.json
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\bin\Debug\net5.0\Tabulation.runtimeconfig.dev.json
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\bin\Debug\net5.0\Tabulation.dll
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\bin\Debug\net5.0\ref\Tabulation.dll
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\bin\Debug\net5.0\Tabulation.pdb
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\Tabulation.csprojAssemblyReference.cache
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\Tabulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\Tabulation.AssemblyInfoInputs.cache
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\Tabulation.AssemblyInfo.cs
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\Tabulation.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\Tabulation.dll
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\ref\Tabulation.dll
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\Tabulation.pdb
+C:\Users\ulyan\source\repos\Tabulation\Tabulation\obj\Debug\net5.0\Tabulation.genruntimeconfig.cache

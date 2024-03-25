@@ -1,0 +1,16 @@
+C:\Users\ulyan\source\repos\Модуль\Модуль\bin\Debug\net5.0\Модуль.exe
+C:\Users\ulyan\source\repos\Модуль\Модуль\bin\Debug\net5.0\Модуль.deps.json
+C:\Users\ulyan\source\repos\Модуль\Модуль\bin\Debug\net5.0\Модуль.runtimeconfig.json
+C:\Users\ulyan\source\repos\Модуль\Модуль\bin\Debug\net5.0\Модуль.runtimeconfig.dev.json
+C:\Users\ulyan\source\repos\Модуль\Модуль\bin\Debug\net5.0\Модуль.dll
+C:\Users\ulyan\source\repos\Модуль\Модуль\bin\Debug\net5.0\ref\Модуль.dll
+C:\Users\ulyan\source\repos\Модуль\Модуль\bin\Debug\net5.0\Модуль.pdb
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\Модуль.csprojAssemblyReference.cache
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\Модуль.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\Модуль.AssemblyInfoInputs.cache
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\Модуль.AssemblyInfo.cs
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\Модуль.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\Модуль.dll
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\ref\Модуль.dll
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\Модуль.pdb
+C:\Users\ulyan\source\repos\Модуль\Модуль\obj\Debug\net5.0\Модуль.genruntimeconfig.cache
