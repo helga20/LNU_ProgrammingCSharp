@@ -1,0 +1,16 @@
+C:\Users\ulyan\source\repos\interfaces\interfaces\bin\Debug\net5.0\interfaces.exe
+C:\Users\ulyan\source\repos\interfaces\interfaces\bin\Debug\net5.0\interfaces.deps.json
+C:\Users\ulyan\source\repos\interfaces\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.json
+C:\Users\ulyan\source\repos\interfaces\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.dev.json
+C:\Users\ulyan\source\repos\interfaces\interfaces\bin\Debug\net5.0\interfaces.dll
+C:\Users\ulyan\source\repos\interfaces\interfaces\bin\Debug\net5.0\ref\interfaces.dll
+C:\Users\ulyan\source\repos\interfaces\interfaces\bin\Debug\net5.0\interfaces.pdb
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\interfaces.csprojAssemblyReference.cache
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfo.cs
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\interfaces.dll
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\ref\interfaces.dll
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\interfaces.pdb
+C:\Users\ulyan\source\repos\interfaces\interfaces\obj\Debug\net5.0\interfaces.genruntimeconfig.cache

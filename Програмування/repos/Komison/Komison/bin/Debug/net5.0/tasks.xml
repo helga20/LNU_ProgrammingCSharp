@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Task_Id>1</Task_Id>
+    <Theme>Theme1</Theme>
+    <TaskStart>1951-05-05T10:00:00</TaskStart>
+    <TimeExecution>PT40M</TimeExecution>
+  </Task>
+  <Task>
+    <Task_Id>2</Task_Id>
+    <Theme>Theme2</Theme>
+    <TaskStart>1951-05-05T11:00:00</TaskStart>
+    <TimeExecution>PT30M</TimeExecution>
+  </Task>
+  <Task>
+    <Task_Id>3</Task_Id>
+    <Theme>Theme3</Theme>
+    <TaskStart>1951-05-05T12:00:00</TaskStart>
+    <TimeExecution>PT20M</TimeExecution>
+  </Task>
+</ArrayOfTask>

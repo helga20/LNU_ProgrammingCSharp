@@ -1,0 +1,16 @@
+C:\Users\ulyan\source\repos\preps\preps\bin\Debug\net5.0\preps.exe
+C:\Users\ulyan\source\repos\preps\preps\bin\Debug\net5.0\preps.deps.json
+C:\Users\ulyan\source\repos\preps\preps\bin\Debug\net5.0\preps.runtimeconfig.json
+C:\Users\ulyan\source\repos\preps\preps\bin\Debug\net5.0\preps.runtimeconfig.dev.json
+C:\Users\ulyan\source\repos\preps\preps\bin\Debug\net5.0\preps.dll
+C:\Users\ulyan\source\repos\preps\preps\bin\Debug\net5.0\ref\preps.dll
+C:\Users\ulyan\source\repos\preps\preps\bin\Debug\net5.0\preps.pdb
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\preps.csprojAssemblyReference.cache
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\preps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\preps.AssemblyInfoInputs.cache
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\preps.AssemblyInfo.cs
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\preps.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\preps.dll
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\ref\preps.dll
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\preps.pdb
+C:\Users\ulyan\source\repos\preps\preps\obj\Debug\net5.0\preps.genruntimeconfig.cache

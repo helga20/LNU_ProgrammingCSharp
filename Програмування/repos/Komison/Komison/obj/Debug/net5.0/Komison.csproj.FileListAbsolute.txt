@@ -1,0 +1,16 @@
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\Komison.csprojAssemblyReference.cache
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\Komison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\Komison.AssemblyInfoInputs.cache
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\Komison.AssemblyInfo.cs
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\Komison.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\source\repos\Komison\Komison\bin\Debug\net5.0\Komison.exe
+C:\Users\ulyan\source\repos\Komison\Komison\bin\Debug\net5.0\Komison.deps.json
+C:\Users\ulyan\source\repos\Komison\Komison\bin\Debug\net5.0\Komison.runtimeconfig.json
+C:\Users\ulyan\source\repos\Komison\Komison\bin\Debug\net5.0\Komison.runtimeconfig.dev.json
+C:\Users\ulyan\source\repos\Komison\Komison\bin\Debug\net5.0\Komison.dll
+C:\Users\ulyan\source\repos\Komison\Komison\bin\Debug\net5.0\ref\Komison.dll
+C:\Users\ulyan\source\repos\Komison\Komison\bin\Debug\net5.0\Komison.pdb
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\Komison.dll
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\ref\Komison.dll
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\Komison.pdb
+C:\Users\ulyan\source\repos\Komison\Komison\obj\Debug\net5.0\Komison.genruntimeconfig.cache

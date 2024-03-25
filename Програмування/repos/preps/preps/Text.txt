@@ -1,0 +1,3 @@
+﻿Shop1 T Book2 20 15 T Book1 25 10 N Book3 15 50 N Book4 25 10
+Shop2 T Book2 15 5 T Book5 50 10 N Book3 15 25
+Shop3 T Book2 20 25 N Book6 35 2 N Book4 23 4
