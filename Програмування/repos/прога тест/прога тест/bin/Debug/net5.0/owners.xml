@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfOwner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Owner>
+    <ID>1</ID>
+    <FirstName>Name1</FirstName>
+    <LastName>Surname1</LastName>
+  </Owner>
+  <Owner>
+    <ID>2</ID>
+    <FirstName>Name2</FirstName>
+    <LastName>Surname2</LastName>
+  </Owner>
+  <Owner>
+    <ID>3</ID>
+    <FirstName>Name3</FirstName>
+    <LastName>Surname3</LastName>
+  </Owner>
+</ArrayOfOwner>

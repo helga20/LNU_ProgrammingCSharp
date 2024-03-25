@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Owners>
+  <Owner>
+    <FullName>Name1 S</FullName>
+    <Auto>
+      <Mark>Mark1</Mark>
+      <ReleaseDate>03.05.2020 0:00:00</ReleaseDate>
+    </Auto>
+    <Auto>
+      <Mark>Mark3</Mark>
+      <ReleaseDate>05.05.2021 0:00:00</ReleaseDate>
+    </Auto>
+  </Owner>
+  <Owner>
+    <FullName>Name2 S</FullName>
+    <Auto>
+      <Mark>Mark1</Mark>
+      <ReleaseDate>07.05.2021 0:00:00</ReleaseDate>
+    </Auto>
+    <Auto>
+      <Mark>Mark3</Mark>
+      <ReleaseDate>07.05.2021 0:00:00</ReleaseDate>
+    </Auto>
+  </Owner>
+  <Owner>
+    <FullName>Name3 S</FullName>
+    <Auto>
+      <Mark>Mark4</Mark>
+      <ReleaseDate>03.05.2021 0:00:00</ReleaseDate>
+    </Auto>
+  </Owner>
+</Owners>

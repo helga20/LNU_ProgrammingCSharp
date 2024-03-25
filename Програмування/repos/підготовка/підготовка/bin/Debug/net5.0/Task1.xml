@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clients>
+  <Client>
+    <FullName>Name1 Surname1</FullName>
+    <Total>450</Total>
+  </Client>
+  <Client>
+    <FullName>Name2 Surname2</FullName>
+    <Total>280</Total>
+  </Client>
+  <Client>
+    <FullName>Name3 Surname3</FullName>
+    <Total>175</Total>
+  </Client>
+  <Client>
+    <FullName>Name4 Surname4</FullName>
+    <Total>120</Total>
+  </Client>
+</Clients>

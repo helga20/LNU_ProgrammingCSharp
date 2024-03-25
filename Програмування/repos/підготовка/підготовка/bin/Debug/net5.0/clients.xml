@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <ID>1</ID>
+    <LastName>Surname1</LastName>
+    <FirstName>Name1</FirstName>
+    <Discount>0.1</Discount>
+  </Client>
+  <Client>
+    <ID>2</ID>
+    <LastName>Surname2</LastName>
+    <FirstName>Name2</FirstName>
+    <Discount>0.2</Discount>
+  </Client>
+  <Client>
+    <ID>3</ID>
+    <LastName>Surname3</LastName>
+    <FirstName>Name3</FirstName>
+    <Discount>0.3</Discount>
+  </Client>
+  <Client>
+    <ID>4</ID>
+    <LastName>Surname4</LastName>
+    <FirstName>Name4</FirstName>
+    <Discount>0.4</Discount>
+  </Client>
+</ArrayOfClient>

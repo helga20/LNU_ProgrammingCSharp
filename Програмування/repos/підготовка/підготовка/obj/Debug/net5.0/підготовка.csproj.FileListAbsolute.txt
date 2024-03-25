@@ -1,0 +1,16 @@
+C:\Users\ulyan\source\repos\підготовка\підготовка\bin\Debug\net5.0\підготовка.exe
+C:\Users\ulyan\source\repos\підготовка\підготовка\bin\Debug\net5.0\підготовка.deps.json
+C:\Users\ulyan\source\repos\підготовка\підготовка\bin\Debug\net5.0\підготовка.runtimeconfig.json
+C:\Users\ulyan\source\repos\підготовка\підготовка\bin\Debug\net5.0\підготовка.runtimeconfig.dev.json
+C:\Users\ulyan\source\repos\підготовка\підготовка\bin\Debug\net5.0\підготовка.dll
+C:\Users\ulyan\source\repos\підготовка\підготовка\bin\Debug\net5.0\ref\підготовка.dll
+C:\Users\ulyan\source\repos\підготовка\підготовка\bin\Debug\net5.0\підготовка.pdb
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\підготовка.csprojAssemblyReference.cache
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\підготовка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\підготовка.AssemblyInfoInputs.cache
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\підготовка.AssemblyInfo.cs
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\підготовка.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\підготовка.dll
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\ref\підготовка.dll
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\підготовка.pdb
+C:\Users\ulyan\source\repos\підготовка\підготовка\obj\Debug\net5.0\підготовка.genruntimeconfig.cache

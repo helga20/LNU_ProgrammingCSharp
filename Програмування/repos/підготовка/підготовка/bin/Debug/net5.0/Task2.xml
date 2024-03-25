@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Services>
+  <Service>
+    <Name>Service1</Name>
+    <Month>5</Month>
+    <Payment Hours="9">355</Payment>
+  </Service>
+  <Service>
+    <Name>Service1</Name>
+    <Month>6</Month>
+    <Payment Hours="3">120</Payment>
+  </Service>
+  <Service>
+    <Name>Service1</Name>
+    <Month>7</Month>
+    <Payment Hours="4">180</Payment>
+  </Service>
+  <Service>
+    <Name>Service2</Name>
+    <Month>5</Month>
+    <Payment Hours="2">160</Payment>
+  </Service>
+  <Service>
+    <Name>Service2</Name>
+    <Month>6</Month>
+    <Payment Hours="3">210</Payment>
+  </Service>
+</Services>
