@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Мука",
+    "Mass": 280.0,
+    "Calories": 334.0,
+    "Price": 9.6
+  },
+  {
+    "Name": "Цукор",
+    "Mass": 150.0,
+    "Calories": 386.7,
+    "Price": 1.25
+  },
+  {
+    "Name": "Какао-порошок",
+    "Mass": 40.0,
+    "Calories": 227.5,
+    "Price": 6.25
+  },
+  {
+    "Name": "Cіль",
+    "Mass": 9.0,
+    "Calories": 0.01,
+    "Price": 0.75
+  }
+]
