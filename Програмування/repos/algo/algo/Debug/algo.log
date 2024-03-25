@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ulyan\source\repos\algo\algo\Source.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ulyan\source\repos\algo\algo\Source.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+  algo.vcxproj -> C:\Users\ulyan\source\repos\algo\Debug\algo.exe

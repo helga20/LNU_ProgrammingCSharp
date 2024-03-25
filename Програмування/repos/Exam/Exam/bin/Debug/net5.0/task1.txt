@@ -1,0 +1,12 @@
+Arthur B
+	Product3 with amount 1. It's full price - 150
+	Product2 with amount 4. It's full price - 400
+	Product4 with amount 4. It's full price - 800
+	Product3 with amount 6. It's full price - 900
+Some D
+	Product2 with amount 7. It's full price - 700
+	Product3 with amount 5. It's full price - 750
+Yuriy K
+	Product1 with amount 2. It's full price - 100
+	Product4 with amount 3. It's full price - 600
+	Product4 with amount 12. It's full price - 2400

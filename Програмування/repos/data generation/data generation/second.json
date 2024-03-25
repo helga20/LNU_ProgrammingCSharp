@@ -1,0 +1,778 @@
+[
+	{
+		"date": "2021-03-15",
+		"time": "09:04",
+		"sugarBeforeMeal": 9.2,
+		"sugarAfterMeal": 9.2,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-15",
+		"time": "14:22",
+		"sugarBeforeMeal": 11.3,
+		"sugarAfterMeal": 8.8,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-15",
+		"time": "19:55",
+		"sugarBeforeMeal": 10.7,
+		"sugarAfterMeal": 9.2,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-16",
+		"time": "08:30",
+		"sugarBeforeMeal": 7,
+		"sugarAfterMeal": 8,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-16",
+		"time": "12:25",
+		"sugarBeforeMeal": 8.3,
+		"sugarAfterMeal": 7.9,
+		"insulineInjected": 2,
+		"breadUnits": 1
+	},
+	{
+		"date": "2021-03-16",
+		"time": "15:29",
+		"sugarBeforeMeal": 6.8,
+		"sugarAfterMeal": 7.5,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-16",
+		"time": "19:44",
+		"sugarBeforeMeal": 7.4,
+		"sugarAfterMeal": 8.1,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-17",
+		"time": "09:44",
+		"sugarBeforeMeal": 9.2,
+		"sugarAfterMeal": 7.4,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-17",
+		"time": "13:00",
+		"sugarBeforeMeal": 7.8,
+		"sugarAfterMeal": 8,
+		"insulineInjected": 5,
+		"breadUnits": 2
+	},
+	{
+		"date": "2021-03-17",
+		"time": "15:34",
+		"sugarBeforeMeal": 8,
+		"sugarAfterMeal": 9.9,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-17",
+		"time": "19:42",
+		"sugarBeforeMeal": 10.6,
+		"sugarAfterMeal": 8.3,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-03-18",
+		"time": "08:49",
+		"sugarBeforeMeal": 9.1,
+		"sugarAfterMeal": 10.7,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-18",
+		"time": "15:24",
+		"sugarBeforeMeal": 10.3,
+		"sugarAfterMeal": 10.2,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-18",
+		"time": "19:34",
+		"sugarBeforeMeal": 9,
+		"sugarAfterMeal": 10.5,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-19",
+		"time": "08:41",
+		"sugarBeforeMeal": 10.2,
+		"sugarAfterMeal": 10.1,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-19",
+		"time": "14:45",
+		"sugarBeforeMeal": 9.9,
+		"sugarAfterMeal": 10.8,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-19",
+		"time": "19:11",
+		"sugarBeforeMeal": 10.4,
+		"sugarAfterMeal": 8.7,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-19",
+		"time": "22:35",
+		"sugarBeforeMeal": 8.9,
+		"sugarAfterMeal": 9.2,
+		"insulineInjected": 3,
+		"breadUnits": 1
+	},
+	{
+		"date": "2021-03-20",
+		"time": "08:34",
+		"sugarBeforeMeal": 10.2,
+		"sugarAfterMeal": 7.4,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-20",
+		"time": "15:26",
+		"sugarBeforeMeal": 6,
+		"sugarAfterMeal": 8.2,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-20",
+		"time": "19:36",
+		"sugarBeforeMeal": 7.7,
+		"sugarAfterMeal": 10.4,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-21",
+		"time": "08:02",
+		"sugarBeforeMeal": 9,
+		"sugarAfterMeal": 7.9,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-03-21",
+		"time": "14:59",
+		"sugarBeforeMeal": 7.5,
+		"sugarAfterMeal": 5.9,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-21",
+		"time": "19:50",
+		"sugarBeforeMeal": 8.1,
+		"sugarAfterMeal": 10.3,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-22",
+		"time": "08:04",
+		"sugarBeforeMeal": 10.1,
+		"sugarAfterMeal": 9.4,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-22",
+		"time": "14:16",
+		"sugarBeforeMeal": 10.6,
+		"sugarAfterMeal": 8.4,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-22",
+		"time": "17:20",
+		"sugarBeforeMeal": 8,
+		"sugarAfterMeal": 7.6,
+		"insulineInjected": 4,
+		"breadUnits": 2
+	},
+	{
+		"date": "2021-03-22",
+		"time": "19:45",
+		"sugarBeforeMeal": 9,
+		"sugarAfterMeal": 6.3,
+		"insulineInjected": 12,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-03-23",
+		"time": "09:27",
+		"sugarBeforeMeal": 3.8,
+		"sugarAfterMeal": 4.7,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-23",
+		"time": "15:36",
+		"sugarBeforeMeal": 5.2,
+		"sugarAfterMeal": 8.1,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-23",
+		"time": "19:01",
+		"sugarBeforeMeal": 8.8,
+		"sugarAfterMeal": 6.2,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-24",
+		"time": "08:21",
+		"sugarBeforeMeal": 4.3,
+		"sugarAfterMeal": 7.3,
+		"insulineInjected": 7,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-24",
+		"time": "14:05",
+		"sugarBeforeMeal": 6.8,
+		"sugarAfterMeal": 5.5,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-24",
+		"time": "17:15",
+		"sugarBeforeMeal": 6.1,
+		"sugarAfterMeal": 6.4,
+		"insulineInjected": 3,
+		"breadUnits": 2
+	},
+	{
+		"date": "2021-03-24",
+		"time": "19:09",
+		"sugarBeforeMeal": 7.1,
+		"sugarAfterMeal": 9.5,
+		"insulineInjected": 12,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-25",
+		"time": "09:42",
+		"sugarBeforeMeal": 10.6,
+		"sugarAfterMeal": 9.9,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-25",
+		"time": "15:27",
+		"sugarBeforeMeal": 9.1,
+		"sugarAfterMeal": 8.8,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-25",
+		"time": "19:36",
+		"sugarBeforeMeal": 7,
+		"sugarAfterMeal": 5.6,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-26",
+		"time": "08:16",
+		"sugarBeforeMeal": 4.5,
+		"sugarAfterMeal": 5.2,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-26",
+		"time": "14:44",
+		"sugarBeforeMeal": 5.9,
+		"sugarAfterMeal": 3.9,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-26",
+		"time": "19:24",
+		"sugarBeforeMeal": 6.2,
+		"sugarAfterMeal": 6,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-26",
+		"time": "21:25",
+		"sugarBeforeMeal": 6.5,
+		"sugarAfterMeal": 5.9,
+		"insulineInjected": 3,
+		"breadUnits": 1
+	},
+	{
+		"date": "2021-03-27",
+		"time": "09:47",
+		"sugarBeforeMeal": 5.3,
+		"sugarAfterMeal": 6.9,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-03-27",
+		"time": "15:04",
+		"sugarBeforeMeal": 5.2,
+		"sugarAfterMeal": 6.1,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-03-27",
+		"time": "19:52",
+		"sugarBeforeMeal": 6.7,
+		"sugarAfterMeal": 8.8,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-28",
+		"time": "09:55",
+		"sugarBeforeMeal": 10,
+		"sugarAfterMeal": 12.5,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-28",
+		"time": "15:51",
+		"sugarBeforeMeal": 12.2,
+		"sugarAfterMeal": 9.4,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-28",
+		"time": "19:45",
+		"sugarBeforeMeal": 11.7,
+		"sugarAfterMeal": 10.6,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-29",
+		"time": "09:27",
+		"sugarBeforeMeal": 9.8,
+		"sugarAfterMeal": 9.3,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-29",
+		"time": "14:18",
+		"sugarBeforeMeal": 11.4,
+		"sugarAfterMeal": 9.3,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-03-29",
+		"time": "19:03",
+		"sugarBeforeMeal": 10.5,
+		"sugarAfterMeal": 9.6,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-30",
+		"time": "09:26",
+		"sugarBeforeMeal": 7.9,
+		"sugarAfterMeal": 6.7,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-03-30",
+		"time": "15:06",
+		"sugarBeforeMeal": 6.7,
+		"sugarAfterMeal": 7.7,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-03-30",
+		"time": "19:47",
+		"sugarBeforeMeal": 8.6,
+		"sugarAfterMeal": 6.7,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-03-31",
+		"time": "12:40",
+		"sugarBeforeMeal": 11.4,
+		"sugarAfterMeal": 9,
+		"insulineInjected": 14,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-03-31",
+		"time": "19:46",
+		"sugarBeforeMeal": 9.7,
+		"sugarAfterMeal": 7.6,
+		"insulineInjected": 11,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-04-01",
+		"time": "08:25",
+		"sugarBeforeMeal": 6,
+		"sugarAfterMeal": 6.7,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-04-01",
+		"time": "14:03",
+		"sugarBeforeMeal": 8.4,
+		"sugarAfterMeal": 8.9,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-04-01",
+		"time": "19:24",
+		"sugarBeforeMeal": 8.3,
+		"sugarAfterMeal": 8.5,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-02",
+		"time": "08:05",
+		"sugarBeforeMeal": 7.4,
+		"sugarAfterMeal": 6.8,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-04-02",
+		"time": "14:39",
+		"sugarBeforeMeal": 6.8,
+		"sugarAfterMeal": 8.6,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-02",
+		"time": "16:45",
+		"sugarBeforeMeal": 8.8,
+		"sugarAfterMeal": 9,
+		"insulineInjected": 3,
+		"breadUnits": 2
+	},
+	{
+		"date": "2021-04-02",
+		"time": "19:27",
+		"sugarBeforeMeal": 9.1,
+		"sugarAfterMeal": 10.4,
+		"insulineInjected": 9,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-04-03",
+		"time": "08:03",
+		"sugarBeforeMeal": 9.8,
+		"sugarAfterMeal": 8.6,
+		"insulineInjected": 14,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-04-03",
+		"time": "15:46",
+		"sugarBeforeMeal": 7.6,
+		"sugarAfterMeal": 4.8,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-03",
+		"time": "19:34",
+		"sugarBeforeMeal": 6.5,
+		"sugarAfterMeal": 4.6,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-04-04",
+		"time": "09:37",
+		"sugarBeforeMeal": 4.8,
+		"sugarAfterMeal": 6.3,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-04-04",
+		"time": "15:33",
+		"sugarBeforeMeal": 5.1,
+		"sugarAfterMeal": 7.4,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-04-04",
+		"time": "19:53",
+		"sugarBeforeMeal": 5.9,
+		"sugarAfterMeal": 8.5,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-04-05",
+		"time": "08:19",
+		"sugarBeforeMeal": 8.8,
+		"sugarAfterMeal": 9.2,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-04-05",
+		"time": "15:09",
+		"sugarBeforeMeal": 8.7,
+		"sugarAfterMeal": 7.6,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-04-05",
+		"time": "19:18",
+		"sugarBeforeMeal": 7,
+		"sugarAfterMeal": 8.1,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-06",
+		"time": "09:25",
+		"sugarBeforeMeal": 9.6,
+		"sugarAfterMeal": 9.4,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-06",
+		"time": "14:35",
+		"sugarBeforeMeal": 8.3,
+		"sugarAfterMeal": 6.1,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-04-06",
+		"time": "19:05",
+		"sugarBeforeMeal": 8,
+		"sugarAfterMeal": 10.6,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-04-07",
+		"time": "09:07",
+		"sugarBeforeMeal": 9.1,
+		"sugarAfterMeal": 11.6,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-04-07",
+		"time": "17:42",
+		"sugarBeforeMeal": 9.8,
+		"sugarAfterMeal": 9.3,
+		"insulineInjected": 18,
+		"breadUnits": 8
+	},
+	{
+		"date": "2021-04-08",
+		"time": "08:34",
+		"sugarBeforeMeal": 10,
+		"sugarAfterMeal": 11.8,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-04-08",
+		"time": "15:53",
+		"sugarBeforeMeal": 9.7,
+		"sugarAfterMeal": 6.9,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-04-08",
+		"time": "19:15",
+		"sugarBeforeMeal": 7.3,
+		"sugarAfterMeal": 8.9,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-04-09",
+		"time": "09:54",
+		"sugarBeforeMeal": 11.3,
+		"sugarAfterMeal": 8.7,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-09",
+		"time": "15:11",
+		"sugarBeforeMeal": 9.8,
+		"sugarAfterMeal": 7.2,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-04-09",
+		"time": "19:10",
+		"sugarBeforeMeal": 5.3,
+		"sugarAfterMeal": 6.8,
+		"insulineInjected": 10,
+		"breadUnits": 5
+	},
+	{
+		"date": "2021-04-10",
+		"time": "09:22",
+		"sugarBeforeMeal": 5.1,
+		"sugarAfterMeal": 7.6,
+		"insulineInjected": 8,
+		"breadUnits": 4
+	},
+	{
+		"date": "2021-04-10",
+		"time": "11:45",
+		"sugarBeforeMeal": 7.8,
+		"sugarAfterMeal": 7.9,
+		"insulineInjected": 0,
+		"breadUnits": 1
+	},
+	{
+		"date": "2021-04-10",
+		"time": "14:33",
+		"sugarBeforeMeal": 8.6,
+		"sugarAfterMeal": 7.1,
+		"insulineInjected": 6,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-10",
+		"time": "19:50",
+		"sugarBeforeMeal": 9.1,
+		"sugarAfterMeal": 10.2,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-04-11",
+		"time": "08:41",
+		"sugarBeforeMeal": 7.9,
+		"sugarAfterMeal": 5.8,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-04-11",
+		"time": "14:09",
+		"sugarBeforeMeal": 5.5,
+		"sugarAfterMeal": 6.3,
+		"insulineInjected": 12,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-04-11",
+		"time": "16:12",
+		"sugarBeforeMeal": 7.3,
+		"sugarAfterMeal": 6.3,
+		"insulineInjected": 5,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-11",
+		"time": "19:38",
+		"sugarBeforeMeal": 8.3,
+		"sugarAfterMeal": 8.7,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-04-12",
+		"time": "08:48",
+		"sugarBeforeMeal": 7.6,
+		"sugarAfterMeal": 9.2,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-04-12",
+		"time": "14:33",
+		"sugarBeforeMeal": 8.3,
+		"sugarAfterMeal": 7.4,
+		"insulineInjected": 12,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-04-12",
+		"time": "19:20",
+		"sugarBeforeMeal": 5.3,
+		"sugarAfterMeal": 6.7,
+		"insulineInjected": 14,
+		"breadUnits": 7
+	},
+	{
+		"date": "2021-04-13",
+		"time": "10:01",
+		"sugarBeforeMeal": 7.3,
+		"sugarAfterMeal": 4.5,
+		"insulineInjected": 8,
+		"breadUnits": 3
+	},
+	{
+		"date": "2021-04-13",
+		"time": "17:22",
+		"sugarBeforeMeal": 4,
+		"sugarAfterMeal": 6.5,
+		"insulineInjected": 10,
+		"breadUnits": 6
+	},
+	{
+		"date": "2021-04-13",
+		"time": "23:06",
+		"sugarBeforeMeal": 6.6,
+		"sugarAfterMeal": 7.3,
+		"insulineInjected": 9,
+		"breadUnits": 5
+	}
+]

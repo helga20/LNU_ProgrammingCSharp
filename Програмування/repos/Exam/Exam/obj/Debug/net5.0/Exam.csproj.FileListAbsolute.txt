@@ -1,0 +1,16 @@
+C:\Users\ulyan\source\repos\Exam\Exam\bin\Debug\net5.0\Exam.exe
+C:\Users\ulyan\source\repos\Exam\Exam\bin\Debug\net5.0\Exam.deps.json
+C:\Users\ulyan\source\repos\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.json
+C:\Users\ulyan\source\repos\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+C:\Users\ulyan\source\repos\Exam\Exam\bin\Debug\net5.0\Exam.dll
+C:\Users\ulyan\source\repos\Exam\Exam\bin\Debug\net5.0\ref\Exam.dll
+C:\Users\ulyan\source\repos\Exam\Exam\bin\Debug\net5.0\Exam.pdb
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\Exam.csprojAssemblyReference.cache
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfoInputs.cache
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfo.cs
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\Exam.dll
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\ref\Exam.dll
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\Exam.pdb
+C:\Users\ulyan\source\repos\Exam\Exam\obj\Debug\net5.0\Exam.genruntimeconfig.cache

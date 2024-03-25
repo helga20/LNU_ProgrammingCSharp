@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ulyan\Downloads\src\ball.h(17,2): warning C4091: 'typedef ': ignored on left of 'Ball' when no variable is declared
+  db_prof.vcxproj -> C:\Users\ulyan\source\repos\db_prof\Debug\db_prof.exe

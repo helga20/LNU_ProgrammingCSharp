@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<ArrayOfTaskInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskInfo>
+    <FullName>Arthur Bondar</FullName>
+    <Location>Lviv</Location>
+    <Orders>
+      <ProdInfo>
+        <ProductName>Product3</ProductName>
+        <Amount>1</Amount>
+        <FullPrice>150</FullPrice>
+      </ProdInfo>
+      <ProdInfo>
+        <ProductName>Product3</ProductName>
+        <Amount>6</Amount>
+        <FullPrice>900</FullPrice>
+      </ProdInfo>
+      <ProdInfo>
+        <ProductName>Product2</ProductName>
+        <Amount>4</Amount>
+        <FullPrice>400</FullPrice>
+      </ProdInfo>
+      <ProdInfo>
+        <ProductName>Product4</ProductName>
+        <Amount>4</Amount>
+        <FullPrice>800</FullPrice>
+      </ProdInfo>
+    </Orders>
+  </TaskInfo>
+  <TaskInfo>
+    <FullName>Some Dude</FullName>
+    <Location>Odesa</Location>
+    <Orders>
+      <ProdInfo>
+        <ProductName>Product3</ProductName>
+        <Amount>5</Amount>
+        <FullPrice>750</FullPrice>
+      </ProdInfo>
+      <ProdInfo>
+        <ProductName>Product2</ProductName>
+        <Amount>7</Amount>
+        <FullPrice>700</FullPrice>
+      </ProdInfo>
+    </Orders>
+  </TaskInfo>
+  <TaskInfo>
+    <FullName>Yuriy Kis</FullName>
+    <Location>Lviv</Location>
+    <Orders>
+      <ProdInfo>
+        <ProductName>Product1</ProductName>
+        <Amount>2</Amount>
+        <FullPrice>100</FullPrice>
+      </ProdInfo>
+      <ProdInfo>
+        <ProductName>Product4</ProductName>
+        <Amount>3</Amount>
+        <FullPrice>600</FullPrice>
+      </ProdInfo>
+      <ProdInfo>
+        <ProductName>Product4</ProductName>
+        <Amount>12</Amount>
+        <FullPrice>2400</FullPrice>
+      </ProdInfo>
+    </Orders>
+  </TaskInfo>
+</ArrayOfTaskInfo>

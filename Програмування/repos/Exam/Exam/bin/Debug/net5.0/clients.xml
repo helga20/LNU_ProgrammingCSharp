@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <ID>1</ID>
+    <FirstName>Yuriy</FirstName>
+    <LastName>Kis</LastName>
+    <Location>Lviv</Location>
+  </Client>
+  <Client>
+    <ID>2</ID>
+    <FirstName>Arthur</FirstName>
+    <LastName>Bondar</LastName>
+    <Location>Lviv</Location>
+  </Client>
+  <Client>
+    <ID>3</ID>
+    <FirstName>Some</FirstName>
+    <LastName>Dude</LastName>
+    <Location>Odesa</Location>
+  </Client>
+</ArrayOfClient>

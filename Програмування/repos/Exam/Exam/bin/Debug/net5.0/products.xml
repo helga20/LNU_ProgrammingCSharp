@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ID>1</ID>
+    <Name>Product1</Name>
+    <Category>Category1</Category>
+    <Type>Kg</Type>
+    <Price>50</Price>
+  </Product>
+  <Product>
+    <ID>2</ID>
+    <Name>Product2</Name>
+    <Category>Category2</Category>
+    <Type>Litres</Type>
+    <Price>100</Price>
+  </Product>
+  <Product>
+    <ID>3</ID>
+    <Name>Product3</Name>
+    <Category>Category1</Category>
+    <Type>Object</Type>
+    <Price>150</Price>
+  </Product>
+  <Product>
+    <ID>4</ID>
+    <Name>Product4</Name>
+    <Category>Category2</Category>
+    <Type>Kg</Type>
+    <Price>200</Price>
+  </Product>
+</ArrayOfProduct>
